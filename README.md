@@ -9,3 +9,19 @@ It provides the necessary code, models, and instructions to reproduce our experi
 
 ## Repository Structure
 
+├── data/ # Data files and preprocessing scripts ├── models/ # Model architectures and checkpoints ├── scripts/ # Training, evaluation, and utility scripts ├── results/ # Output results and logs ├── README.md # Project description and usage instructions └── requirements.txt # Python dependencies
+
+## Installation
+
+To set up the environment, first install the required Python packages:
+
+pip install -r requirements.txt
+
+
+Ensure you are using Python 3.8 or above.
+
+## Usage
+
+### Train the Model
+
+
