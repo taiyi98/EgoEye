@@ -79,6 +79,7 @@ data/
 datasets/
 *.log
 logs/
+results
 
 # Model checkpoints
 *.ckpt
