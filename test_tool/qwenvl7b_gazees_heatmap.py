@@ -63,7 +63,7 @@ def get_gaze_info_from_csv(csv_folder, video_id, group_id):
 
 # 处理CSV文件
 datasets = ['egtea']
-categories = ['spatial', 'temporal', 'causal']
+categories = ['temporal', 'causal']
 for dataset in datasets:
     for category in categories:
         print(f"----Processing {category}_{dataset}.csv----\n")
